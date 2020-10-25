@@ -1,0 +1,141 @@
+body{
+    font-family: 'Poppins';
+    color: #181F39;
+}
+
+.profile h5{
+    font-weight: 700;
+}
+
+.profile p{
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.tagline p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.belanja h6{
+    font-size: 15px;
+    font-weight:700px;
+}
+
+.socialmedia p{
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.btn-default {
+    width: 192px;
+    height: 41px;
+    color: #fff;
+    background-color: #171A39;
+    border-color: #171A39;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .btn-default:hover {
+    color: #fff;
+    background-color: #23274E;
+    border-color: #23274E;
+  }
+
+  .btn-theme1 {
+    width: 192px;
+    height: 41px;
+    color: #fff;
+    background-color: #F24C75;
+    border-color: #F24C75;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .btn-theme1:hover {
+    color: #fff;
+    background-color: #F83464;
+    border-color: #F83464;
+  }
+
+  .bg-theme1{
+      background-color: #171A39;
+  }
+
+  .border-theme1 {
+    background-color: #ffffff;
+    border-color: #ffffff !important;
+  }
+
+  .rounded-toptheme1 {
+    border-top-left-radius: 0.90rem !important;
+    border-top-right-radius: 0.90rem !important;
+  }
+
+  .profile-theme1 h5{
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.profile-theme1 p{
+    font-size: 12px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.tagline-theme1 p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.btn-smtheme1, .btn-group-sm > .btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.750rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #171A39;
+  }
+  .btn-primarytheme1:hover {
+    color: #fff;
+    background-color: #cecece;
+    border-color: #cecece;
+    color: #171A39;
+  }
+
+
+
+  .btn-theme2 {
+    width: 192px;
+    height: 41px;
+    color: #fff;
+    background-color: #DA486D;
+    border-color: #DA486D;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .btn-theme2:hover {
+    color: #fff;
+    background-color: #EC3765;
+    border-color: #EC3765;
+  }
+
+  .bg-theme2{
+      background-color: #ffffff;
+  }
+
+  .border-theme2 {
+    background: radial-gradient(circle at top left, #D8456F, #922485);
+  }
+
+  .rounded-bottomtheme2 {
+    border-bottom-right-radius: 0.90rem !important;
+    border-bottom-left-radius: 0.90rem !important;
+  }
+
+  .box {
+    background: radial-gradient(circle at top left, #fdbb2d, #22c1c3);    
+   }
