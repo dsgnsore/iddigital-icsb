@@ -45,17 +45,17 @@ body{
   .btn-theme1 {
     width: 192px;
     height: 41px;
-    color: #fff;
-    background-color: #F24C75;
-    border-color: #F24C75;
+    color: #171A39;
+    background-color: #B9CAE6;
+    border-color: #B9CAE6;
     font-size: 12px;
     font-weight: 600;
   }
   
   .btn-theme1:hover {
-    color: #fff;
-    background-color: #F83464;
-    border-color: #F83464;
+    color: #171A39;
+    background-color: #8FACD8;
+    border-color: #8FACD8;
   }
 
   .bg-theme1{
@@ -100,8 +100,8 @@ body{
   }
   .btn-primarytheme1:hover {
     color: #fff;
-    background-color: #cecece;
-    border-color: #cecece;
+    background-color: #B9CAE6;
+    border-color: #B9CAE6;
     color: #171A39;
   }
 
@@ -111,16 +111,16 @@ body{
     width: 192px;
     height: 41px;
     color: #fff;
-    background-color: #DA486D;
-    border-color: #DA486D;
+    background-color: #002D56;
+    border-color: #002D56;
     font-size: 12px;
     font-weight: 600;
   }
 
   .btn-theme2:hover {
     color: #fff;
-    background-color: #EC3765;
-    border-color: #EC3765;
+    background-color: #171A39;
+    border-color: #171A39;
   }
 
   .bg-theme2{
@@ -128,7 +128,7 @@ body{
   }
 
   .border-theme2 {
-    background: radial-gradient(circle at top left, #D8456F, #922485);
+    background: radial-gradient(circle at bottom left, #7C9BC7 10%,#002D56 90%);
   }
 
   .rounded-bottomtheme2 {
