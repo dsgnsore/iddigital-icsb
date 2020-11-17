@@ -42,6 +42,9 @@ body{
     border-color: #23274E;
   }
 
+
+
+  /* Styling Theme 1 */
   .btn-theme1 {
     width: 192px;
     height: 41px;
@@ -107,6 +110,7 @@ body{
 
 
 
+/* Styling Theme 2 */
   .btn-theme2 {
     width: 192px;
     height: 41px;
@@ -139,3 +143,27 @@ body{
   .box {
     background: radial-gradient(circle at top left, #fdbb2d, #22c1c3);    
    }
+
+
+
+   /* Styling Theme 3 */
+   .bg-theme3{
+    background-color: #171A39;
+    color: #ffffff;
+   }
+
+   .btn-theme3 {
+    width: 192px;
+    height: 41px;
+    color: #171A39;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .btn-theme3:hover {
+    color: #171A39;
+    background-color: #D8D8E1;
+    border-color: #D8D8E1;
+  }
